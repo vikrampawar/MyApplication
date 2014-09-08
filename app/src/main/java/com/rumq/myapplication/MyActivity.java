@@ -13,6 +13,8 @@ public class MyActivity extends Activity {
 
     public static final String EXTRA_MESSAGE = "com.rumq.myapplication.MESSAGE";
 
+    // Added this comment
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
